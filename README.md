@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mustafa
 - 👀 I’m interested in computers and lots of other random stuff
 - 🌱 I’m currently learning Java, python mainly
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sc: msaadun03
 
 <!---
